@@ -17,7 +17,7 @@ First, copy the HTML code provided below. You can paste this code into your webs
     />
 </div>
 ```
-Replace `{YOUR_COMPANY_SLUG}>` with the parameter provided by us.
+Replace `{YOUR_COMPANY_SLUG}` with the parameter provided by us.
 
 ## Step 2: Paste the Code
 
