@@ -5,7 +5,7 @@ Thank you for choosing our widget! This guide will walk you through the process 
 
 ## Step 1: Copy the HTML Code
 
-First, copy the HTML code provided below. You can paste this code into your website or web application where you want the widget to appear.
+First, copy the HTML code provided below. You can paste this code into your website or web application where you want the widget to appear. Note! You will receive {YOUR_COMPANY_SLUG} from us, and you'll need to insert it into the code.
 
 ```html
 <div style="display: flex;
@@ -17,6 +17,7 @@ First, copy the HTML code provided below. You can paste this code into your webs
     />
 </div>
 ```
+Replace `{YOUR_COMPANY_SLUG}>` with the parameter provided by us.
 
 ## Step 2: Paste the Code
 
