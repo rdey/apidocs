@@ -5,7 +5,7 @@ Thank you for choosing our widget! This guide will walk you through the process 
 
 ## Step 1: Copy the HTML Code
 
-First, copy the HTML code provided below. You can paste this code into your website or web application where you want the widget to appear. Note! You will receive {YOUR_COMPANY_SLUG} from us, and you'll need to insert it into the code.
+First, copy the HTML code provided below. You can paste this code into your website or web application where you want the widget to appear. Note! You will receive `{YOUR_COMPANY_SLUG}` from us, and you'll need to insert it into the code.
 
 ```html
 <div style="display: flex;
@@ -51,8 +51,8 @@ Paste the copied code into the HTML source code of your website or web applicati
 
 You can customize the widget by modifying the HTML and CSS properties as needed. Here are some customization options:
 
-- **Style**: You can adjust the style to your website by choosing "light" or "dark" background to your widget. Default is "light".
-- **Size**: You can adjust the size with options "small" or "large". Default is "large.
+- **Style**: You can adjust the style to your website by choosing `light` or `dark` background to your widget. Default is `light`.
+- **Size**: You can adjust the size with options `small` or `large`. Default is `large`.
 
 ## Step 4: Test and Publish
 
