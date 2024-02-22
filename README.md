@@ -50,6 +50,7 @@ Paste the copied code into the HTML source code of your website or web applicati
 ## Step 3: Customize the Widget and Choose Content Type
 
 You can customize the widget by modifying the HTML and CSS properties as needed. Here are some customization options:
+
 **Style**:
 You can adjust the style to your website by choosing `light` or `dark` background to your widget. Default is `light`.
 
