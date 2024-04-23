@@ -66,4 +66,4 @@ The default (accessed by omitting `type` from the URL) is the depricated widget 
 
 After pasting the code and making any necessary customizations, save your changes and test your website or application to ensure that the widget is displayed correctly. If everything looks good, you can go ahead and publish your site or application with the widget integrated.
 
-That's it! You've successfully integrated our widget into your website or application. If you have any questions or encounter any issues, please don't hesitate to reach out to us for assistance ([louise.zetterlund@redeye.se](mailto:louise.zetterlund@redeye.se)). We're here to help you make the most of our widget.
+That's it! You've successfully integrated our widget into your website or application. If you have any questions or encounter any issues, please don't hesitate to reach out to us for assistance ([joel.karlsson@redeye.se](mailto:joel.karlsson@redeye.se)). We're here to help you make the most of our widget.
