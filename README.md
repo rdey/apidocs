@@ -5,16 +5,19 @@ Thank you for choosing our widget! This guide will walk you through the process 
 
 ## Step 1: Copy the HTML Code
 
-First, copy the HTML code provided below. You can paste this code into your website or web application where you want the widget to appear. Note! You will receive `{YOUR_COMPANY_SLUG}` from us, and you'll need to insert it into the code.
+First, copy the HTML code provided below. You can paste this code into your website or web application where you want the widget to appear. 
+
+Note! You will receive `{YOUR_COMPANY_SLUG}` from us, and you'll need to insert it into the code.
 
 ```html
 <div style="display: flex;
-  flex-direction: column; width: 100%; min-height: 300px;">
+  flex-direction: column; width: 100%; min-height: 300px; height: 300px;">
     <iframe
       src="https://www.redeye.se/ir-iframe/{YOUR_COMPANY_SLUG}?style=light&type=research"
       style="border: none; height: 100%; width: 100%;"
       title="Iframe IR Redeye"
-    />
+    >
+    </iframe>
 </div>
 ```
 Replace `{YOUR_COMPANY_SLUG}` with the parameter provided by us.
@@ -34,12 +37,13 @@ Paste the copied code into the HTML source code of your website or web applicati
 
     <!-- Paste the widget code here -->
     <div style="display: flex;
-      flex-direction: column; width: 100%; min-height: 300px;">
+      flex-direction: column; width: 100%; min-height: 300px; height: 300px;">
         <iframe
           src="https://www.redeye.se/ir-iframe/{YOUR_COMPANY_SLUG}?style=light&type=research"
           style="border: none; height: 100%; width: 100%;"
           title="Iframe IR Redeye"
-        />
+        >
+        </iframe>
     </div>
 
     <!-- More of your website content here -->
@@ -51,8 +55,11 @@ Paste the copied code into the HTML source code of your website or web applicati
 
 You can customize the widget by modifying the HTML and CSS properties as needed. Here are some customization options:
 
+**Height**:
+We suggest changing the height of the surrounding container to better display the contents of the iframe. The content inside the iframe itself is flexible which means it will adjust itself to the available height and width on the site it is implemented on. Default values for the container in the code above is set at `300px` but we suggest increasing the height or experimenting with a flexible container that suits your overall layout best.
+
 **Style**:
-You can adjust the style to your website by choosing `light` or `dark` background to your widget. Default is `light`.
+You can adjust the style to your website by choosing `light` or `dark` background to your widget. This customization is made by changing the source url that the iframe points towards. Default is `light`.
 
 **Type**: 
 You can choose between three different types of widgets depending on what type of content you want to highlight on your website. 
